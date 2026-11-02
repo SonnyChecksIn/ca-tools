@@ -66,3 +66,4 @@ postop-tr2017,rodriguez.cristerna|post.optimi[sz]ation of the NIST,"J. Torres-Ji
 web-tj,^torres.?jim(e|é)nez$|cinvestav|simulated annealing \(torres|cyclotomy \(torres,"J. Torres-Jimenez, Covering arrays repository, formerly at https://www.tamps.cinvestav.mx/~oc/ (no longer online)",
 bt-yz2008,"yan jun|yan.{0,5}zhang|backtracking search tool","J. Yan and J. Zhang, A backtracking search tool for constructing combinatorial test suites, J. Syst. Softw. 81 (2008) 1681-1693",10.1016/j.jss.2008.02.034
 tabu-z2006,zekaoui,"L. Zekaoui, Mixed covering arrays on graphs and tabu search algorithms, M.Sc. thesis, University of Ottawa (2006), http://hdl.handle.net/10393/27433",
+deposit-bai2026,zenodo\.23787055,"X. Bai, Covering arrays: verified improvements to the ca-tools table (data, certificates, verification code, Lean sources), Zenodo, version 1.0 (2026)",10.5281/zenodo.23787055
